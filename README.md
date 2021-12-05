@@ -6,8 +6,9 @@ I'm a software engineer who has worked in software testing and server side.
 - 🌱 I’m currently learning React.
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://stackoverflow.com/users/14868118/oktaykcr"><img src="https://stackoverflow.com/users/flair/14868118.png?theme=dark" width="208" height="58" alt="profile for oktaykcr at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for oktaykcr at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<br/>
 <a href="https://www.hackerrank.com/oktaykcr" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=""/></a>
-<a href="https://stackoverflow.com/users/14868118/oktaykcr" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt=""/></a>
 <a href="https://play.google.com/store/apps/developer?id=Rotabellc2" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt=""/></a>
 
 <h3 align="left">My Stacks:</h3>
