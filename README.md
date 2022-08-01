@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer who has worked in software testing and server side. 
+I'm a software engineer who has worked in desktop app and backend development. 
 
 - 🔭 I'm currently trying to improve myself on the backend.
 - 🌱 I’m currently learning Golang and Kafka.
